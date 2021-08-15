@@ -83,3 +83,13 @@ In the initial commit to this project, you have been provided with data for the 
   genres: ["Horror"],
 }
 ```
+## Question Answers
+* **Identify the component of this assignment you did the best on, and why:** 
+* **Describe in plain English what problem this assignment was posing, and what your solution to it was:** 
+* **What was your approach or process:** 
+* **What were your challenges:** 
+* **What resources did you use:** Stackoverflow, fuse classroom videos, youtube video about mvc
+* **What does the repo project do and what is the impact it has:** 
+* **Technologies used in project:** JavaScript, ESLint, Node.js, Express.js, Postman
+* **Main Author:** Kat Skurka
+* **Credits:** Hollis for helping troubleshoot some errors during office hours
